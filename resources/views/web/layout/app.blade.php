@@ -38,13 +38,13 @@
             margin: 0 auto;
         }
         .form-switch .form-check-input {
-            background-image: url(https://ranglerz.pw/repairmycar/public/user/assets/images/orangesvg.svg);
+            background-image: url(./public/user/assets/images/orangesvg.svg);
         }
         .form-switch .form-check-input:checked {
-            background-image: url(https://ranglerz.pw/repairmycar/public/user/assets/images/toggler.svg);
+            background-image: url(./public/user/assets/images/toggler.svg);
         }
         .form-switch .form-check-input:focus {
-            background-image: url(https://ranglerz.pw/repairmycar/public/user/assets/images/toggler.svg);
+            background-image: url(./public/user/assets/images/toggler.svg);
         }
         header .form-switch.toggler_switch {
             padding: 0;
@@ -647,7 +647,7 @@
             // });
             $(document).ready(function() {
                 $('input').change(function() {
-                    $('input[accept=".pdf"] + .uploaded').find('img').attr('src', 'https://ranglerz.pw/repairmycar/public/assets/images/pdficon.png');
+                    $('input[accept=".pdf"] + .uploaded').find('img').attr('src', './public/assets/images/pdficon.png');
                 });
 
                 $(".carousel_se_03_carousel").owlCarousel({

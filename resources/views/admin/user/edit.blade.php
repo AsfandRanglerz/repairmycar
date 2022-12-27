@@ -91,7 +91,7 @@
                                                 <div class="text-danger">{{ $message }}</div>
                                             @enderror
                                             <div><img
-                                                    @if ($user->image) src="{{ asset('/' . $user->image) }}" @else src="https://ranglerz.pw/repairmycar/public/admin/assets/img/user.png" @endif
+                                                    @if ($user->image) src="{{ asset('/' . $user->image) }}" @else src="./public/admin/assets/img/user.png" @endif
                                                     style="height: 100px;width:100px">
                                             </div>
                                         </div>

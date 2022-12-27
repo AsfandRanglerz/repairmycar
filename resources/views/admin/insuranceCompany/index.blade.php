@@ -45,7 +45,7 @@
                                                     <td>{{ $company->insurance->owner_name }}</td>
                                                     <td class="images">
                                                         <a href="{{ asset($company->image) }}">
-                                                            <img @if ($company->image) src="{{ asset('/' . $company->image) }}" @else src="https://ranglerz.pw/repairmycar/public/admin/assets/img/user.png" @endif
+                                                            <img @if ($company->image) src="{{ asset('/' . $company->image) }}" @else src="./public/admin/assets/img/user.png" @endif
                                                                 style="height: 50px;width:50px"></a>
                                                     </td>
                                                     <td>{{ $company->email }}</td>

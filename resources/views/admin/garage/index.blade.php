@@ -38,8 +38,8 @@
                                                     <td>{{ $loop->iteration }}</td>
                                                     <td>{{ $data->garage_name }}</td>
                                                     <td>{{ isset($data->vendor) ? $data->vendor->name : 'Null' }}</td>
-                                                    <td class="images"><a  href="{{asset($data->image)}}"><img 
-                                                            @if (isset($data->image)) src="{{ asset('/' . $data->image) }}" @else src="https://ranglerz.pw/repairmycar/public/admin/assets/img/user.png" @endif
+                                                    <td class="images"><a  href="{{asset($data->image)}}"><img
+                                                            @if (isset($data->image)) src="{{ asset('/' . $data->image) }}" @else src="./public/admin/assets/img/user.png" @endif
                                                             style="height:50px;width:50px"></a></td>
                                                     <td>
                                                         @foreach ($data->garageCategory as $category)
