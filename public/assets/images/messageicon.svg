@@ -1,0 +1,13 @@
+<svg id="outline-message-24px" xmlns="http://www.w3.org/2000/svg" width="35.146" height="35.146" viewBox="0 0 35.146 35.146">
+  <g id="Bounding_Boxes">
+    <path id="Path_2743" data-name="Path 2743" d="M0,0H35.146V35.146H0Z" fill="none"/>
+  </g>
+  <g id="Outline" transform="translate(2.929 2.929)">
+    <g id="Group_183" data-name="Group 183">
+      <path id="XMLID_641_" d="M4.929,4.929h23.43V22.5H6.642L4.929,24.215V4.929h0M4.929,2A2.925,2.925,0,0,0,2.015,4.929L2,31.288,7.858,25.43h20.5A2.937,2.937,0,0,0,31.288,22.5V4.929A2.937,2.937,0,0,0,28.359,2Z" transform="translate(-2 -2)" fill="#fff"/>
+      <path id="XMLID_644_" d="M6,12H23.573v2.929H6Z" transform="translate(-0.142 2.644)" fill="#fff"/>
+      <path id="XMLID_643_" d="M6,9H23.573v2.929H6Z" transform="translate(-0.142 1.251)" fill="#fff"/>
+      <path id="XMLID_642_" d="M6,6H23.573V8.929H6Z" transform="translate(-0.142 -0.142)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

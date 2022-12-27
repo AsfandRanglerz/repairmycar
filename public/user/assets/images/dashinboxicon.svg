@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.78" height="21.78" viewBox="0 0 21.78 21.78">
+  <g id="outline-message-24px" transform="translate(1.303 1.303)">
+    <g id="Bounding_Boxes">
+      <path id="Path_2743" data-name="Path 2743" d="M0,0H19.173V19.173H0Z" fill="none"/>
+    </g>
+    <g id="Outline" transform="translate(-1.303 -1.303)">
+      <g id="Group_183" data-name="Group 183">
+        <path id="XMLID_641_" d="M4.178,4.178H21.6V17.246H5.452L4.178,18.52V4.178h0M4.178,2A2.175,2.175,0,0,0,2.011,4.178L2,23.78l4.356-4.356H21.6a2.184,2.184,0,0,0,2.178-2.178V4.178A2.184,2.184,0,0,0,21.6,2Z" transform="translate(-2 -2)" fill="#fff"/>
+        <path id="XMLID_644_" d="M6,12H21.389v1.6H6Z" transform="translate(-2.804 -0.788)" fill="#fff"/>
+        <path id="XMLID_643_" d="M6,9H21.389v1.6H6Z" transform="translate(-2.804 -1.151)" fill="#fff"/>
+        <path id="XMLID_642_" d="M6,6H21.389V7.6H6Z" transform="translate(-2.804 -1.515)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

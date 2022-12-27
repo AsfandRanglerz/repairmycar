@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="13.668" height="13.668" viewBox="0 0 13.668 13.668">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_782" data-name="Rectangle 782" width="13.668" height="13.668" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_3" data-name="Mask Group 3" clip-path="url(#clip-path)">
+    <g id="Layer_2" data-name="Layer 2" transform="translate(1.786)">
+      <g id="Layer_1" data-name="Layer 1">
+        <g id="oil_change" data-name="oil change">
+          <path id="Path_168" data-name="Path 168" d="M5.2,4.415q.993-.247,1.989-.485c.725-.173.726-.171.726-.914V2.184h2.7c.005.1.015.2.015.3V12.761c0,.713-.246.958-.954.958H2.436c-.692,0-.932-.245-.932-.94v-.486a13.617,13.617,0,0,0,1.724.072,3.624,3.624,0,0,0,3.4-4.124,8.062,8.062,0,0,0-1.2-3.377c-.073-.126-.15-.251-.223-.377A.3.3,0,0,1,5.2,4.415Z" transform="translate(-0.036 -0.052)" fill="#fff"/>
+          <path id="Path_169" data-name="Path 169" d="M2.884,3.236c.37.488.767.975,1.123,1.489A7.7,7.7,0,0,1,5.414,7.844a4.592,4.592,0,0,1,0,1.544,2.507,2.507,0,0,1-2.39,2.01A2.7,2.7,0,0,1,.07,9.335,3.539,3.539,0,0,1,.24,7.4,12.31,12.31,0,0,1,2.785,3.279.48.48,0,0,1,2.884,3.236ZM1.382,7.1a2.333,2.333,0,0,0-.077,2.525,1.815,1.815,0,0,0,1.744.689A5.76,5.76,0,0,1,1.382,7.1Z" transform="translate(0 -0.077)" fill="#fff"/>
+          <path id="Path_170" data-name="Path 170" d="M11.368,0V1.425H7.285V0Z" transform="translate(-0.173)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

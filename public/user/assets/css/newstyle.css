@@ -1,0 +1,921 @@
+@media (max-width:  991px) {
+    .right_main {
+        margin-left: 0;
+    }
+}
+@media (max-width: 575px) {
+    .increased_bdg_info>h3, .dtl_heading>h3 {
+    font-size: var(--fs-16);
+}
+    p{
+        font-size: var(--fs-14);
+    }
+    .inbox_contact.top_main>.name_of_contact>p {
+
+    font-size: var(--fs-14);
+}
+   .side_inbox {
+    max-width: 100%;
+    height: 40vh;
+    position: unset;
+}
+.inbox_nmae {
+    font-size: var(--fs-16);
+}
+.main_contact {
+    height: calc( 100vh - 80vh);
+}
+    /*.chat_section{
+        margin-left: unset;
+    }*/
+    .main_wraper{
+            flex-direction: column;
+    }
+    .contact_img {
+    width: 35px;
+    height: 35px;
+    flex: 0 0 35px;
+    margin-right: 7px;
+}
+.contact_img.second_msg {
+    margin-right: unset;
+    margin-left: 7px;
+}
+.chat_section {
+   padding: 0 8px;
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+    background-size: 143% 100%;
+        margin-left: unset;
+}
+.searchInput>input{
+    height: 40px;
+}
+.chat_section {
+    height: calc( 100vh - 51vh);
+}
+.cahtting_messages {
+    height: calc( 100vh - 69vh);
+}
+/*.img_wraper_label.Chat_File_icon>.file_icon_wraper {
+    background-color: var(--orange);
+    width: 35px;
+    height: 35px;
+    flex: 0 0 35px;
+}*/
+.messages_file_uploader_image {
+    width: 15px;
+    height: 15px;
+}
+
+input.messages_file[type=file] {
+    width: 35px;
+    height: 35px;
+}
+.form_sending_wraper>textarea {
+    margin: 0 5px;
+    max-height: 40px !important;
+}
+.inbox_contact.top_main>.message_txt_wraper>.message_txt {
+    word-break: break-all;
+    font-size: var(--fs-13);
+}
+   /* .searchInput>a>img {
+    width: 12px;
+    height: 12px;
+}*/
+ /*   .inbox_nmae {
+    font-size: var(--fs-16);
+}
+.side_inbox {
+    max-width: 124px;
+    padding: 20px 6px;
+}
+.chat_section {
+    margin-left: 124px;
+}
+*/
+/*%input{
+    background-color: white;
+    border: 1px solid #saas;
+    font-size: 19px;
+}
+
+$black : #000;
+.chat_inbox{
+    background-color: red;
+    input{
+        @extend %input
+        font-size: 19px;
+        &:hover ,
+    }
+    p{
+
+    }
+    h3{
+        span{
+
+        }
+    }
+    button{
+        img{
+
+        }
+        span{
+
+        }
+        a{
+
+        }
+    }
+
+    &.active{
+        background-color: white;
+        p{
+            color: red;
+        }
+    }
+    &:before, &:after
+}
+*/
+
+
+
+
+
+    .over_view_part>h3 {
+    font-size: var(--fs-16);
+}
+.over_view_part>h3 {
+    font-size: var(--fs-16);
+}
+    .quote_info>h3.active_quote {
+    justify-content: center;
+}
+.quote_info>p{
+    text-align: center;
+}
+    .quote_info>.active_quote {
+        font-size: var(--fs-16);
+        text-align: center;
+    }
+    .active_quote.select_quote{
+        justify-content: center;
+    }
+    .insurancePayment_>p{
+        text-align: center;
+    }
+
+    .form-control,.form-select{
+        font-size: var(--fs-14);
+    }
+    .customer_dashboard_img_wraper {
+        width: 125px;
+        height: 125px;
+    }
+    .soignou_plus_language_wraper>button {
+        width: 115px;
+    }
+    .edit_profile_link_wraper>a {
+        font-size: var(--fs-16);
+    }
+    .profile_name_box>p{
+        font-size: var(--fs-14);
+        padding: unset;
+    }
+    nav {
+        min-height: 60px;
+    }
+    .login_sinup {
+        justify-content: center;
+    }
+    .nav-item>.nav-link {
+        font-size: var(--fs-14);
+        font-weight: var(--fw-600);
+    }
+    .nav-item{
+        text-align: center;
+        border-bottom: 1px dashed var(--black);
+    }
+    .nav-item.nav_item_li{
+        border-bottom: unset;
+    }
+    .logo_wraper {
+        width: 100px;
+        height: 35px;
+    }
+    .carousel-item {
+        height: 330px;
+    }
+    .sec_main_para{
+        font-size: var(--fs-14);
+    }
+    .sec_main_heading {
+        font-size: var(--fs-16);
+        margin-top: 20px;
+    }
+    .card-title {
+        font-size: var(--fs-20);
+    }
+    .rigister_heading>h2 {
+        font-size: var(--fs-20);
+        max-width: 305px;
+    }
+    .view_all_btn_wrapper>.view_all_btn {
+        font-size: var(--fs-14);
+        padding: 15px 20px;
+    }
+    .rigister_btn>a {
+        max-width: 140px;
+    }
+    .footer_link>ul>li>a {
+        line-height: var(--line-height-35);
+    }
+    .footer_link>h1 {
+        font-size: var(--fs-20);
+    }
+    .footer_link>.footer_address {
+        font-size: var(--fs-14);
+        line-height: var(--line-height-23);
+    }
+/*......................................ALL GARAGAES................................*/
+.form-control.search_garages {
+    padding: 0.375rem 128px 0.375rem 48px;
+}
+.slide_icon_wraper {
+    right: 90px;
+}
+.search_garages_wraper>button.search {
+    font-size: 14px;
+}
+.new_detail_img_wraper {
+    height: 45vh;
+}
+.sec_main_heading.new_detal_heaading {
+    font-size: var(--fs-18);
+}
+.sec_main_para.news_detail_paragraph {
+    text-align: justify;
+    font-size: var(--fs-14);
+}
+.news_article_date {
+    font-size: var(--fs-12);
+}
+.news_article_date>span {
+    font-size: var(--fs-14);
+}
+.accordion-button {
+    font-size: var(--fs-16);
+}
+.accordion-body>p {
+    font-size: var(--fs-14);
+    text-align: justify;
+}
+.store_addres {
+    font-size: var(--fs-14);
+}
+.stor_add_show_wraper>h3 {
+    font-size: var(--fs-12);
+}
+.over_view_part {
+    padding: 30px 12px;
+}
+.stor_add_show_wraper {
+    justify-content: start;
+    flex: 0 0 160px;
+    margin-bottom: 10px;
+}
+.time_for_opning{
+    font-size: var(--fs-12);
+}
+.carAd_img_wraper {
+    width: 310px;
+    height: 236px;
+    margin: 0 auto;
+}
+.login_link_heading {
+    font-size: var(--fs-16);
+}
+.login_link_heading>a {
+    font-size: var(--fs-16);
+}
+.btn-secondary {
+    font-size: var(--fs-12);
+    width: 110px;
+    height: 38px;
+}
+.sing_up_img_wraper {
+    margin-bottom: 60px !important;
+}
+.sing_up_img_wraper>img{
+    object-fit: contain;
+}
+.cuatomer_signup_form_wraper {
+    margin-top: 0px;
+}
+.signup_input_wraper {
+    padding: 0 20px;
+}
+
+.login_content_wraper{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.customer_heading_main{
+    align-items: center;
+    justify-content: center;
+}
+/*.......................................dashboard styling ..................*/
+
+.sidebarClick {
+    left: 0px !important;
+    z-index: 1001;
+}
+.sidebar {
+
+    left: -255px;
+}
+.right_main{
+    margin-left: 0px;
+}
+.costumer_heading>h3{
+    font-size: var(--fs-16) !important;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 190px;
+    margin-top: 15px;
+}
+.all_quote_card {
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.main_content_wraper.dashboard {
+    padding-bottom: 10px;
+}
+.quote_card_heading{
+    padding: 0 5px;
+}
+.quote_card_heading>a {
+    font-size: var(--fs-14);
+}
+.quote_card_heading>h3 {
+    font-size: var(--fs-16);
+}
+.quote_detail_btn_wraper>a {
+    width: 100px;
+    font-size: var(--fs-12);
+    height: 35px;
+}
+.quote_info>.active_quote {
+    font-size: var(--fs-18);
+}
+label.img_wraper_label>p {
+    font-size: var(--fs-12);
+    padding-left: 8px;
+    word-break: break-all;
+}
+.form-floating>label{
+    font-size: var(--fs-14);
+}
+label.img_wraper_label.skip{
+    padding-right: 44px;
+}
+.quote_detail_wraper{
+    flex-direction: column;
+}
+.chat_view__detail>.btn-secondary {
+    width: 125px;
+    height: 32px;
+}
+.quote_detail_btn_wraper>h3 {
+    font-size: var(--fs-14);
+    text-align: center;
+}
+.quote_info>h3.active_quote{
+    margin-top: 15px;
+    font-size: var(--fs-16);
+}
+.quote_detail_wraper{
+    padding-left: unset;
+}
+.all_quote_card {
+    padding: 24px 11px;
+}
+.nav-tabs>.nav-item>.tab_btns.active:before {
+    left: 50%;
+    width: 40px;
+    height: 40px;
+}
+.quote_detail_wraper.replies{
+    align-items: center;
+}
+.chat_view__detail.qoute_replies{
+    flex-direction: row;
+    align-items: center;
+}
+.card_icons.respons_qoute{
+    margin-top: unset;
+}
+.over_view_part>.heading:before {
+    max-width: 180px;
+}
+.billing_info>h3 {
+    font-size: var(--fs-16);
+}
+.payment_divider{
+    display: none;
+}
+.billing_info.via_insurance>h3 {
+    font-size: var(--fs-16);
+}
+.car_inner_imagg.vendor_rply_dtl {
+    width: 120px;
+    height: 120px;
+    flex: 0 0 120px;
+}
+.quote_detail_btn_wraper>.vendor_replies_dtl.allOrder{
+    margin-top: 15px;
+}
+.completed_order_id>p {
+    font-size: var(--fs-12);
+}
+.quote_info.Leavereview{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+.btn-secondary.edit_del_btns, .btn-primary.edit_del_btns {
+    width: 90px;
+    height: 35px;
+    font-size: var(--fs-13);
+}
+.btn-secondary.edit_del_btns:after {
+    right: 5px;
+    font-size: 14px;
+}
+.btn-primary.edit_del_btns:after{
+    right: 5px;
+    font-size: 14px;
+}
+.login_sinup>.accoutntData>.notification_tooltip {
+    top: 45px;
+    left: -100%;
+    transform: translateX(-28%);
+}
+.login_sinup>.accoutntData>.notification_tooltip:after {
+    top: 2%;
+    right: 120px;
+}
+#TopProfile {
+    top: 45px;
+    left: -62px;
+}
+/*............................images_preview style ................................>*/
+.image-uploader {
+    min-height: 2.5rem !important;
+}
+.image-uploader .uploaded .uploaded-image {
+    width: calc(33% - 0.4rem) !important;
+    padding-bottom: calc(33% - 0.4rem)!important;
+}
+label.img_wraper_label>a.skip {
+    font-size: var(--fs-12);
+}
+.quote_detail_btn_wraper>h3.quotereplies {
+    text-align: center;
+}
+.chat_view__detail.allreplies>.btn-secondary {
+    width: 135px;
+}
+.quote_info>h3.active_quote.rply_dtl {
+
+    justify-content: center;
+}
+.quote_info>p.rply__dtl{
+    text-align: center;
+}
+
+
+
+}
+@media (min-width: 576px) and (max-width: 767px){
+    .increased_bdg_info>h3, .dtl_heading>h3 {
+    font-size: var(--fs-16);
+}
+.owl-carousel.carousel_se_03_carousel.owl-theme.owl-loaded.owl-drag {
+    max-width: 492px;
+    margin: 0 auto;
+}
+
+
+
+    /*chat system*/
+    /*#MobileContactToggler{
+        display: none;
+    }*/
+    .cahtting_messages {
+    overflow-y: auto;
+    height: calc( 100vh - 41vh);
+}
+    .inbox_nmae {
+    font-size: var(--fs-16);
+}
+.name_of_contact>p {
+    font-size: var(--fs-15);
+}
+.chat_section {
+    padding: 0 10px;
+     background-size: 135%;
+}
+.inbox_contact.top_main>.message_txt_wraper>.message_txt {
+    font-size: var(--fs-15);
+}
+.form_sending_wraper>textarea {
+    margin: 0 4px;
+}
+
+.img_wraper_label.Chat_File_icon>.file_icon_wraper {
+    width: 35px;
+    height: 35px;
+    flex: 0 0 35px;
+}
+.img_wraper_label.Chat_File_icon>.file_icon_wraper>img {
+    width: 14px;
+}
+
+
+
+
+    .customer_heading_main {
+    align-items: center;
+    justify-content: center;
+}
+.over_view_part>h3 {
+    font-size: var(--fs-16);
+}
+.costumer_heading>h3 {
+    font-size: var(--fs-16) !important;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 190px;
+    margin-top: 15px;
+}
+.nav-item {
+    text-align: center;
+    border-bottom: 1px dashed var(--black);
+}
+.login_sinup {
+    justify-content: center;
+}
+.nav-item>.nav-link {
+    font-size: var(--fs-14);
+}
+.logo_wraper {
+    width: 130px;
+    height: 50px;
+}
+    .quote_detail_btn_wraper>a.pay_via_insurance_btn.crossed {
+    width: 100px;
+    padding-right: 18px;
+}
+.quote_detail_btn_wraper>a.pay_via_insurance_btn {
+    height: 38px;
+}
+    .billing_info.via_insurance>h3 {
+    font-size: var(--fs-16);
+}
+.quote_info>.active_quote {
+    font-size: var(--fs-16);
+}
+    .form-control, .form-select{
+        font-size:var(--fs-14);
+    }
+    .billing_info>h3 {
+        font-size: var(--fs-16);
+        margin-bottom: 15px;
+    }
+    .payment_divider:after {
+        height: 225px;
+
+    }
+    .profile_name_box>p {
+        padding: 0 0 0 10px;
+    }
+    .sec_main_heading {
+        font-size: var(--fs-18);
+        margin-top: 20px;
+    }
+    .quote_card_heading>h3 {
+        font-size: var(--fs-18);
+    }
+    .quote_card_heading>a {
+        font-size: var(--fs-16);
+    }
+    .quote_info>.active_quote {
+        font-size: var(--fs-16);
+    }
+    .quote_detail_btn_wraper>a {
+        width: 100px;
+        font-size: var(--fs-12);
+    }
+    .quote_detail_btn_wraper>h3 {
+        font-size: var(--fs-14);
+    }
+    .chat_view__detail>.btn-secondary {
+        width: 120px;
+        height: 38px;
+    }
+    .quote_detail_wraper.replies {
+        flex-direction: column;
+    }
+    .chat_view__detail.qoute_replies {
+        flex-direction: row;
+        align-items: center;
+    }
+    .card_icons.respons_qoute{
+        margin-top: unset;
+    }
+    .car_inner_imagg.replies_qout {
+        width: 80px;
+        height: 80px;
+        flex: 0 0 80px;
+    }
+    .chat_view__detail.qoute_replies>.chat_icon {
+        width: 22px;
+        height: 22px;
+        flex: 0 0 20px;
+    }
+    .chat_view__detail.qoute_replies>.chat_icon>img {
+        width: 22px;
+        height: 22px;
+    }
+    .card_icons.respons_qoute>.icon_wrpaer{
+        width: 20px;
+        height: 20px;
+        margin: 0 2px;
+    }
+    .quote_detail_wraper.replies.second {
+        align-items: center;
+    }
+    .quote_detail_btn_wraper>h3.quotereplies {
+        text-align: center;
+    }
+    .car_inner_imagg.vendor_rply_dtl {
+        width: 110px;
+        height: 110px;
+        flex: 0 0 110px;
+    }
+    .all_quote_card {
+        padding: 24px 11px;
+    }
+    .quote_detail_wraper {
+        align-items: flex-start;
+    }
+
+.completed_order_id>p {
+    font-size: var(--fs-14);
+}
+.image-uploader {
+    min-height: 3rem !important;
+}
+
+
+
+
+}
+
+
+
+
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .increased_bdg_info>h3, .dtl_heading>h3 {
+    font-size: var(--fs-18);
+}
+    .form_sending_wraper>textarea {
+    margin: 0 5px;
+}
+.form_sending_wraper>a {
+    margin: 0 3px 0 0;
+}
+.inbox_nmae {
+    font-size: var(--fs-20);
+}
+.cahtting_messages {
+    height: calc( 100vh - 40vh);
+}
+
+
+    .billing_info.via_insurance>h3 {
+    font-size: var(--fs-20);
+}
+.quote_info>.active_quote {
+    font-size: var(--fs-16);
+}
+    .quote_detail_wraper.replies {
+        flex-direction: column;
+    }
+    .chat_view__detail.qoute_replies {
+        flex-direction: row;
+        align-items: center;
+    }
+    .card_icons.respons_qoute{
+        margin-top: unset;
+    }
+    .quote_detail_btn_wraper>h3.quotereplies {
+        text-align: center;
+    }
+    .quote_detail_wraper.replies.second {
+        align-items: center;
+    }
+
+    .nav-item.nav_item_li{
+        border-bottom: unset;
+    }
+    .customer_heading_main {
+        align-items: center;
+        justify-content: center;
+    }
+    .login_sinup {
+        justify-content: center;
+    }
+    .nav-item {
+        text-align: center;
+        border-bottom: 1px dashed var(--black);
+    }
+    .over_view_part {
+        padding: 30px 20px;
+    }
+    .stor_add_show_wraper {
+        flex: 0 0 0px;
+        margin-bottom: 20px;
+    }
+    .carAd_img_wraper {
+        width: 310px;
+        height: 240px;
+        margin: 0 auto;
+    }
+    .store_brances {
+        min-height: 55px;
+    }
+    .login_content_wraper{
+        min-height: 100vh;
+    }
+    .main_content_wraper.dashboard {
+        padding-bottom: 60px;
+    }
+    .all_quote_card {
+        padding: 24px 10px;
+    }
+    .quote_detail_btn_wraper>a {
+        width: 110px;
+        font-size: var(--fs-13);
+    }
+    .sec_main_heading {
+        font-size: var(--fs-22);
+    }
+    .quote_card_heading>h3 {
+        font-size: var(--fs-20);
+    }
+    .quote_card_heading>a {
+        font-size: var(--fs-18);
+    }
+    .quote_info>.active_quote {
+        font-size: var(--fs-18);
+    }
+    .quote_detail_btn_wraper>h3 {
+        font-size: var(--fs-18);
+    }
+    .chat_view__detail>.btn-secondary {
+        width: 120px;
+        height: 40px;
+    }
+    .quote_detail_wraper {
+        padding-left: 10px;
+    }
+    .car_inner_imagg.vendor_rply_dtl {
+        width: 110px;
+        height: 110px;
+        flex: 0 0 110px;
+    }
+    .quote_info>.quote_rev.vndr_rply__dtl {
+        font-size: var(--fs-12);
+    }
+    .quote_detail_wraper {
+        align-items: flex-start;
+    }
+    .billing_info>h3 {
+        font-size: var(--fs-20);
+    }
+    .review_text>p {
+        max-width: 430px;
+    }
+    .completed_order_id>p {
+        font-size: var(--fs-15);
+    }
+    label.img_wraper_label>p {
+        font-size: var(--fs-13);
+    }
+    .login_sinup>.accoutntData>.notification_tooltip {
+        top: 47px;
+    }
+/*images preview*/
+.image-uploader {
+    min-height: 3rem !important;
+}
+.image-uploader .uploaded .uploaded-image {
+    width: calc(32% - 0.4rem) !important;
+    padding-bottom: calc(32% - 0.4rem)!important;
+}
+/*.image-uploader {
+    min-height: 3rem !important;
+}
+.image-uploader .uploaded .uploaded-image {
+    width: calc(20% - 1rem) !important;
+    padding-bottom: calc(20% - 1rem) !important;
+}
+label.img_wraper_label>a.skip {
+    font-size: 10px;
+}
+*/
+
+
+}
+@media (min-width: 992px) and (max-width: 1200px){
+    .increased_bdg_info>h3, .dtl_heading>h3 {
+    font-size: var(--fs-18);
+}
+    .chat_section {
+    background-size: 139%;
+        height: calc( 100vh - 13vh);
+}
+.cahtting_messages {
+    overflow-y: auto;
+    height: calc( 100vh - 31vh);
+}
+    .quote_card_heading>a {
+        font-size: var(--fs-20);
+    }
+    .quote_card_heading>h3 {
+        font-size: var(--fs-22);
+    }
+    .sec_main_heading {
+        font-size: var(--fs-24);
+    }
+    .quote_detail_btn_wraper>a {
+        width: 150px;
+    }
+    .costumer_heading{
+        display: none;
+    }
+    .nav-item>.nav-link {
+        font-size: var(--fs-14);
+    }
+    .costumer_heading>h3{
+        font-size: var(--fs-16);
+    }
+    .logo_wraper {
+        width: 150px;
+    }
+    .quote_info>.nowrape {
+        white-space: pre-wrap;
+    }
+    .quote_detail_wraper.replies {
+        flex-wrap: wrap;
+    }
+    .all_quote_card.replies_allquot{
+        min-height: 220px;
+
+    }
+    .chat_view__detail.qoute_replies{
+        flex-direction: row;
+        align-items: center;
+    }
+    .card_icons.respons_qoute{
+        margin-top: unset;
+    }
+    .conform_order_H3 {
+        font-size: var(--fs-20);
+    }
+    .quote_detail_btn_wraper>h3,.quote_info>.active_quote {
+        font-size: var(--fs-22);
+    }
+    .completed_order_id>p {
+        font-size: var(--fs-14);
+    }
+    .chat_view__detail>.btn-secondary {
+        width: 160px;
+    }
+
+
+
+
+}
