@@ -40,7 +40,7 @@
                                                     <td>{{ $user->name }}</td>
                                                     <td class="images">
                                                         <a href="{{ asset($user->image) }}"> <img
-                                                                @if (isset($user->image)) src="{{ asset('/' . $user->image) }}" @else src="../public/admin/assets/img/user.png" @endif
+                                                                @if (isset($user->image)) src="{{ asset('/' . $user->image) }}" @else src="/../public/admin/assets/img/user.png" @endif
                                                                 style="height: 50px;width:50px"></a>
                                                     </td>
                                                     <td>{{ $user->email }}</td>
