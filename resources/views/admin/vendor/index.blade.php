@@ -49,7 +49,7 @@
                                                     <td>{{ $vendor->name }}</td>
                                                     <td class="images">
                                                         <a href="{{ asset($vendor->image) }}"><img
-                                                                @if ($vendor->image) src="{{ asset('/' . $vendor->image) }}" @else src="./public/admin/assets/img/user.png" @endif
+                                                                @if ($vendor->image) src="{{ asset('/' . $vendor->image) }}" @else src="../public/admin/assets/img/user.png" @endif
                                                                 style="height: 50px;width:50px"></a>
                                                     </td>
                                                     <td>{{ $vendor->garage_name }}</td>
