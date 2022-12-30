@@ -156,7 +156,7 @@ class RequestController extends Controller
             // 'sur_name' => ' ',
             'address_1' => Auth::guard('web')->user()->address,
             'city' => Auth::guard('web')->user()->city,
-            'country' => 'UAE',
+            'country' => 'AE',
             'email' => Auth::guard('web')->user()->email,
         ];
         return $telrManager->pay($order_id, $total, 'payment by insurance company on customer request', $billingParams)->redirect();

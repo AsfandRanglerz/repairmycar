@@ -31,6 +31,7 @@ Route::group(['namespace' => 'Web'], function () {
 
     Route::get('/config_cache', function () {
         Artisan::call('config:cache');
+        Artisan::call('config:clear');
         return 'Configuration cache cleared!';
     });
     Route::get('/cache_clear', function () {
